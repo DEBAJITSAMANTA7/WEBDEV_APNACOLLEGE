@@ -1,0 +1,53 @@
+h1 {
+     /* text-align: end; */
+     text-align:center;
+     /* border: solid;
+     width: 100%; */
+     color: rgb(167, 96, 9);
+     /* text decoratio n -underline ,line-through, overline  */
+     text-decoration: rgb(182, 240, 107) wavy underline;
+     /* text-decoration-color: rgb(243, 92, 92); */
+
+     letter-spacing: 5px;
+
+     /* Font-Family is the syntex using it we can specify the text type Style 
+     ex- areal, roman new etc. */
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+     text-align: left;
+     text-decoration: rgb(210, 32, 178) dashed overline;
+}
+
+p {
+     color: rgb(185, 122, 244);
+     background-color: antiquewhite;
+     text-align: center;
+     font-weight: 100;
+
+     /* line tag */
+     /* line-height: normal; */
+     line-height: 1;
+
+     /* size of the text data */
+     font-size: 15px;
+
+     font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+h3 {
+     text-align: center;
+     /* Font-weight:0-800 / normal  --> means the bldness of the text */
+     /* font-weight:normal; */
+     font-weight: 400;
+     text-decoration: rgb(247, 15, 15) line-through;
+
+}
+
+a {
+     text-decoration: none;
+
+}

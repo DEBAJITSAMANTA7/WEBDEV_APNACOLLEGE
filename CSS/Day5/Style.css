@@ -1,4 +1,12 @@
-h1{
-     color: rgb(181, 12, 224);
-     background-color: rgb(232, 239, 232);
+h2{
+     color: #447FBA;
+
+}
+p{
+color: white;
+background-color: blue;
+}
+button{
+color: white;
+background-color: black;
 }
